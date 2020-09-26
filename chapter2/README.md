@@ -37,7 +37,7 @@ Now, in the **Source code origin** section:
 
 1. In the version label section, type `metabase-ebs`
 
-We will be uploading a **Local File**, so first [visit this URL and download the file.](https://github.com/PacktPublishing/Metabase-Up-and-Running/chapter2/Dockerrun.aws.json)
+We will be uploading a **Local File**, so first [visit this URL and download the file.](https://github.com/PacktPublishing/Metabase-Up-and-Running/blob/master/chapter2/Dockerrun.aws.json)
 
 2. Keeping the **Local File** radio button on, click the **Choose file** button and select the `Dockerrun.aws.json` file you just downloaded.
 3. Click the **Configure more options** button.
