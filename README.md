@@ -46,7 +46,6 @@ single_item_orders
  FROM
  orders
 ) each_order
-
 ```
 
 **Following is what you need for this book:**
@@ -70,7 +69,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Redash v5 Quick Start Guide [[Packt]](https://www.packtpub.com/product/redash-v5-quick-start-guide/9781788996167) [[Amazon]](https://www.amazon.com/dp/178899616X)
 
 ## Get to Know the Author
-**Tim Abraham ** 
-
+**Tim Abraham** 
 is originally from Oakland, California, and currently living in the San Francisco Bay Area. He has been working in Data Science for 10 years, spending his time working at consumer technology companies like StumbleUpon, Twitter, and Airbnb and advising a few others. He also spent time as a Data Scientist in Residence at Expa, the Startup Studio that Metabase came out of, which is where he got to know the product and the founding team. Find him on Twitter [@timabe](https://twitter.com/timabe).
 
