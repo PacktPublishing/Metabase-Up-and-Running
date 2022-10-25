@@ -72,3 +72,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Tim Abraham** 
 is originally from Oakland, California, and currently living in the San Francisco Bay Area. He has been working in Data Science for 10 years, spending his time working at consumer technology companies like StumbleUpon, Twitter, and Airbnb and advising a few others. He also spent time as a Data Scientist in Residence at Expa, the Startup Studio that Metabase came out of, which is where he got to know the product and the founding team. Find him on Twitter [@timabe](https://twitter.com/timabe).
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800202313">https://packt.link/free-ebook/9781800202313 </a> </p>
